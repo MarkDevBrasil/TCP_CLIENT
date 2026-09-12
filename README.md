@@ -62,5 +62,3 @@ Conceitos básicos de redes
 
 Esses conhecimentos também servem como base para projetos maiores voltados a segurança ofensiva e pentest.
 Este projeto foi feito para testar e aperfeiçoar meus conhecimentos em Python e redes, utilizando ambientes próprios ou autorizados para os testes.
-
-Python + Networking + Pentest 🔌🐍
